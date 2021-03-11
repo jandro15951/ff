@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\wamp2.2\www\TareaPrograSemana4\HieloPag.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\wamp2.2\www\TareaPrograSemana4\comidas.css"/>
+  <file name="C:\wamp2.2\www\TareaPrograSemana4\estilo.css"/>
+  <file name="C:\wamp2.2\www\TareaPrograSemana4\imagenes.css"/>
+  <file name="C:\wamp2.2\www\TareaPrograSemana4\index.html"/>
+  <file name="C:\wamp2.2\www\TareaPrograSemana4\entrada.html"/>
+  <file name="C:\wamp2.2\www\TareaPrograSemana4\bebidas.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1613016986933" name="C:\wamp2.2\www\TareaPrograSemana4\tresleches.html"/>
+  <file crc="1613016649797" name="C:\wamp2.2\www\TareaPrograSemana4\taco.html"/>
+  <file crc="1613014939413" name="C:\wamp2.2\www\TareaPrograSemana4\sopa.html"/>
+  <file crc="1615224837170" name="C:\wamp2.2\www\TareaPrograSemana4\postres.html"/>
+  <file crc="1615224791762" name="C:\wamp2.2\www\TareaPrograSemana4\platosFuertes.html"/>
+  <file crc="1613014974965" name="C:\wamp2.2\www\TareaPrograSemana4\patacones.html"/>
+  <file crc="1615335741410" name="C:\wamp2.2\www\TareaPrograSemana4\index.html"/>
+  <file crc="1615236222565" name="C:\wamp2.2\www\TareaPrograSemana4\imagenes.css"/>
+  <file crc="1613017037820" name="C:\wamp2.2\www\TareaPrograSemana4\helado.html"/>
+  <file crc="1613016636603" name="C:\wamp2.2\www\TareaPrograSemana4\hamburguesa.html"/>
+  <file crc="1615236589249" name="C:\wamp2.2\www\TareaPrograSemana4\estilo.css"/>
+  <file crc="1615235870056" name="C:\wamp2.2\www\TareaPrograSemana4\entrada.html"/>
+  <file crc="1615224890330" name="C:\wamp2.2\www\TareaPrograSemana4\defectoDescrpcion.html"/>
+  <file crc="1615224711482" name="C:\wamp2.2\www\TareaPrograSemana4\defecto.html"/>
+  <file crc="1615236279536" name="C:\wamp2.2\www\TareaPrograSemana4\comidas.css"/>
+  <file crc="1613015918749" name="C:\wamp2.2\www\TareaPrograSemana4\coca.html"/>
+  <file crc="1613016208005" name="C:\wamp2.2\www\TareaPrograSemana4\chocolate.html"/>
+  <file crc="1613014246221" name="C:\wamp2.2\www\TareaPrograSemana4\chifrijo.html"/>
+  <file crc="1613016937663" name="C:\wamp2.2\www\TareaPrograSemana4\cheescake.html"/>
+  <file crc="1613016010852" name="C:\wamp2.2\www\TareaPrograSemana4\chan.html"/>
+  <file crc="1613013959585" name="C:\wamp2.2\www\TareaPrograSemana4\ceviche.html"/>
+  <file crc="1613016494405" name="C:\wamp2.2\www\TareaPrograSemana4\casado.html"/>
+  <file crc="1613015961637" name="C:\wamp2.2\www\TareaPrograSemana4\cafe.html"/>
+  <file crc="1613016686372" name="C:\wamp2.2\www\TareaPrograSemana4\burrito.html"/>
+  <file crc="1613016886228" name="C:\wamp2.2\www\TareaPrograSemana4\brownie.html"/>
+  <file crc="1615235857792" name="C:\wamp2.2\www\TareaPrograSemana4\bebidas.html"/>
+ </filescache>
+</project>

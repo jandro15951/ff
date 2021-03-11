@@ -1,0 +1,149 @@
+.botonMenu{
+	
+	text-decoration: none;
+	
+	
+
+	color: #FFBC42;
+	font-size: 30px;
+	margin: auto;
+	
+	
+}
+
+.MenuComidas{
+	background: #d81159;
+	height: 300px;
+	width: 250px;
+	border-radius: 10px;
+	margin: auto;
+	
+	box-shadow: 2px 4px  10px black;
+
+	display: flex;
+	
+	
+}
+table{
+	border: 5px outset #8F2D56;
+	object-fit: cover;
+	background-color: #0496FF;
+	border-radius: 10px;
+
+	
+
+}
+
+li{
+	list-style: none;
+	margin: 15px 0px 15px 0px;
+	
+	
+}
+
+.fas{
+	display: none;
+	position: absolute;
+	
+}
+.botonMenu:hover .fas{
+	display: inline-block;
+	position: absolute;
+
+}
+.limpiar1, .limpiar2{
+	color: #FFBC42;
+	background-color: #d81159;
+	font-size: 20px;
+	border-radius: 10px;
+	margin: 10px;
+	text-decoration: none;
+	padding: 5px;
+	position: relative;
+	z-index: 2;
+	top: 40px;
+	border: dashed #FFBC42;
+	box-shadow: 2px 4px 7px black;
+	
+}
+.prueba{
+	position: relative;
+	z-index: 1;
+}
+	
+.limpiar:hover{
+	font-size: 23px;
+	transition: all 1s;
+	
+}
+.flexContainer{
+	display: flex;
+	
+}
+.tablaResponsive{
+	display: none;
+}
+.frame1{
+	width: 610px;
+	height: 250px;
+
+}
+.frame2{
+	width: 610px;
+	height: 300px;
+}
+
+@media screen and (max-width:600px){
+	.MenuComidas{
+		width: 100px;
+	}
+	.botonMenu{
+		position: relative;
+		right: 30px;
+		font-size: 20px;
+	}
+	.limpiar1{
+		position: absolute;
+		left: 170px;
+		width: 130px;
+		height:20px;
+		top:300px;
+	}
+	.limpiar2{
+		right: 10px;
+		top:335px;
+		
+	}
+	table{
+		width: 100px;
+		height: 800px;
+	}
+	.tituloMenu{
+		position: relative;
+		right: 25px;
+	}
+	.lineaMenu{
+		display: none;
+	}
+	.tituloRestaurante{
+	 position: relative;
+	 font-size: 20px;
+	 
+	}
+	.MenuComidas{
+		
+		padding: 10px;
+		margin: 5px;
+	}
+	.frame1{
+		width: 195px;;
+		height: 250px;
+	
+	}
+	
+	.frame2{
+		width: 195px;
+		height: 400px;
+		
+	}
+}
